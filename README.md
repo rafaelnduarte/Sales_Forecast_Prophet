@@ -16,7 +16,7 @@ Also, this brings us greater knowledge on the company itself, helping us better 
 I've separated this project into 3 parts, to make the reading and understanding of each individual part faster and more enjoyable. You can find the links to the other parts below.
 
 Here, we'll work on:
-* [Analysis of sales over time, as well as Sales Forecast using Prophet](https://colab.research.google.com/drive/1jHJ0T7nWFHE1tH9Xh2xMNbjoL8vhls9q#scrollTo=ZPn6kd81WlrQ).
-* [RFM Customer Segmentation - K-Means](https://colab.research.google.com/drive/1NEpuPYEtRo2rV80NU-DhgQ4OBbP4aAic)
-* [Understanding Your Customers with NLP](https://colab.research.google.com/drive/1CHPEvQ7h43YBMiScttRjEXQV3WbZeB_t#scrollTo=64NxqUV8eYlI)
+* [Analysis of sales over time, as well as Sales Forecast using Prophet](https://github.com/rafaelnduarte/Sales_Forecast_Prophet).
+* [RFM Customer Segmentation - K-Means](https://github.com/rafaelnduarte/RFM_Customer_Segmentation)
+* [Understanding Your Customers with NLP](https://github.com/rafaelnduarte/Customers_NLP)
 
